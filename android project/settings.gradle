@@ -1,0 +1,2 @@
+rootProject.name = "MiniProjectIOT4"
+include ':app'
